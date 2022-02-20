@@ -1,6 +1,6 @@
 
 <h1 align="center"> Alberto Rota</h1>
-<h3 align="center">MSc student in Biomedical Engineering @ Politecnico di Milano</h3>
+<h3 align="center">MSc student in Biomedical Engineering @ Politecnico di Milano / Universitè de Liège</h3>
 
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
