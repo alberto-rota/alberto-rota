@@ -20,4 +20,6 @@
 
 </p>
 <hr>
-<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/alberto-rota/CV/blob/master/Alberto_Rota_CV.pdf" align="center"> Download my Curriculum Vitae </p>
+<p align="center">
+  <a href="https://github.com/alberto-rota/CV/blob/master/Alberto_Rota_CV.pdf"> Download my <i> Curriculum Vitae </i> here </a>
+</p>
