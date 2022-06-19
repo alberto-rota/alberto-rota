@@ -21,6 +21,6 @@
 </p>
 <hr>
 <p align="center">
-  <a href="https://github.com/alberto-rota/CV/blob/master/Alberto_Rota_CV.pdf"> Download my <i> Curriculum Vitae </i> here </a>
+  <a href="https://github.com/alberto-rota/CV/raw/master/Alberto_Rota_CV.pdf"> Download my <i> Curriculum Vitae </i> here </a>
 </p>
 <hr>
