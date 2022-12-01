@@ -22,7 +22,7 @@
 <hr>
 <p align="center">
 <a href="https://github.com/alberto-rota/CV/raw/master/Alberto_Rota_CV.pdf" target="_blank" rel="noreferrer"> <img src="bcv.svg" alt="cv" /> </a> 
-<a href="https://www.linkedin.com/in/alberto-rota-8b78301a5/" target="_blank" rel="noreferrer"> <img src="bli.svg" alt="linkedin" /> </a> 
+<a href="https://www.linkedin.com/in/albe-rota/" target="_blank" rel="noreferrer"> <img src="bli.svg" alt="linkedin" /> </a> 
 <a href="https://orcid.org/my-orcid?orcid=0000-0001-9609-6294" target="_blank" rel="noreferrer"> <img src="bor.svg" alt="orcid" /> </a> 
 </p>
 <hr>
