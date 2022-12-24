@@ -2,16 +2,14 @@
 <h1 align="center"> Alberto Rota</h1>
 <h3 align="center">Biomedical Engineer</h3>
 <h3 align="center">NEARLab - Medical Robotics Section</h3>
-<p align="center"> 
 
+<p align="center"> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="near_white.png">
-  <source media="(prefers-color-scheme: light)" srcset="near_black.png">
-  <img alt="NEARLab" src="https://nearlab.polimi.it/medical/">
+  <img alt="NEARLab" src="near_black.png" width="600" href="https://nearlab.polimi.it/medical">
 </picture>
-
-
 </p>
+
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
