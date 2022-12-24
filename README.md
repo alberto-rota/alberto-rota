@@ -3,8 +3,14 @@
 <h3 align="center">Biomedical Engineer</h3>
 <h3 align="center">NEARLab - Medical Robotics Section</h3>
 <p align="center"> 
-<a href="https://nearlab.polimi.it/medical/" target="_blank" rel="noreferrer"> <img src="near_white.png#gh-dark-mode-only" alt="nearlab" width="600"/> </a> 
-<a href="https://nearlab.polimi.it/medical/" target="_blank" rel="noreferrer"> <img src="near_black.png#gh-light-mode-only" alt="nearlab" width="600"/> </a> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="near_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="near_black.png">
+  <img alt="NEARLab" src="https://nearlab.polimi.it/medical/">
+</picture>
+
+
 </p>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
