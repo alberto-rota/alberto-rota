@@ -1,7 +1,11 @@
 
 <h1 align="center"> Alberto Rota</h1>
-<h3 align="center">MSc student in Biomedical Engineering @ Politecnico di Milano</h3>
-
+<h3 align="center">Biomedical Engineer</h3>
+<h3 align="center">NEARLab - Medical Robotics Section</h3>
+<p align="center"> 
+<a href="https://nearlab.polimi.it/medical/" target="_blank" rel="noreferrer"> <img src="near_white.png#gh-dark-mode-only" alt="nearlab" width="600"/> </a> 
+<a href="https://nearlab.polimi.it/medical/" target="_blank" rel="noreferrer"> <img src="near_black.png#gh-light-mode-only" alt="nearlab" width="600"/> </a> 
+</p>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
