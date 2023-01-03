@@ -7,7 +7,7 @@
 <a href="https://nearlab.polimi.it/medical">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="near_white.png">
-  <img alt="NEARLab" src="near_black.png" width="600" > 
+  <img alt="NEARLab" src="near_black.png" width="400" > 
 </picture>
 </a> </p>
 
