@@ -29,9 +29,26 @@
 
 </p>
 <hr>
+
 <p align="center">
-<a href="https://github.com/alberto-rota/CV/raw/master/Alberto_Rota_CV.pdf" target="_blank" rel="noreferrer"> <img src="bcv.svg" alt="cv" /> </a> 
-<a href="https://www.linkedin.com/in/albe-rota/" target="_blank" rel="noreferrer"> <img src="bli.svg" alt="linkedin" /> </a> 
-<a href="https://orcid.org/my-orcid?orcid=0000-0001-9609-6294" target="_blank" rel="noreferrer"> <img src="bor.svg" alt="orcid" /> </a> 
+<a href="https://github.com/alberto-rota/CV/raw/master/Alberto_Rota_CV.pdf">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bcvw.png">
+  <img alt="cv" src="bcvb.png" width="200" > 
+</picture>
+</a> 
+<a href="https://www.linkedin.com/in/albe-rota/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bliw.png">
+  <img alt="linkedin" src="blib.png" width="200" > 
+</picture>
+</a> 
+<a href="https://orcid.org/my-orcid?orcid=0000-0001-9609-6294">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="borw.png">
+  <img alt="orcid" src="borb.png" width="200" > 
+</picture>
+</a> 
 </p>
+
 <hr>
