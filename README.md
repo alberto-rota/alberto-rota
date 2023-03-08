@@ -1,6 +1,7 @@
 
 <h1 align="center"> Alberto Rota</h1>
-<h3 align="center">Biomedical Engineer</h3>
+<h3 align="center">Biomedical Engineer </h3>
+<h3 align="center">PhD student grant from Asensus Surgical</h3>
 <h3 align="center">NEARLab - Medical Robotics Section</h3>
 
 <p align="center"> 
@@ -51,3 +52,29 @@
 </p>
 
 <hr>
+
+
+<p align="center" >
+  🔬 I developed <a href="https://github.com/alberto-rota/muVES"> μVES </a> to autonomously perform topological and morphological analysis on 3D images of microvascular networks 🔬 
+</p>
+
+<p align="center" >
+  🫀 I contributed to the devlopment of an <a href="https://github.com/alberto-rota/PAC-PVC-Beat-Classifier-for-ECGs"> AI-based ECG heartbeat calssifier </a> 
+to detect ventricular and sopraventricular anomalies 🫀
+</p>
+
+<p align="center" >
+  🧑‍🔬 I developed <a href="https://github.com/alberto-rota/STEVE"> STEVE</a>, a VR haptic-enhanced surgical robotic simulator for augmented and assisted training 🧑‍🔬 
+</p>
+
+<p align="center" >
+ 🎸 I made a <a href="https://github.com/alberto-rota/LoopStation-DIY-Project"> custom MIDI Loopstation </a> to live loop my guitar 🎸
+</p>
+
+<p align="center" >
+ 🪛 I am a <a href="https://github.com/alberto-rota/Ender3-Upgrade"> maker </a> 🪛
+</p>
+
+<p align="center" >
+  🌐 I designed and I maintain <a href="https://nearlab.polimi.it"> NEARLab-MRS Website 🌐 </a> 
+</p>
