@@ -77,5 +77,5 @@ to detect ventricular and sopraventricular anomalies 🫀
 </p>
 
 <p align="center" >
-  🌐 I designed and I maintain <a href="https://nearlab.polimi.it"> NEARLab-MRS Website 🌐 </a> 
+  🌐 I designed and I maintain <a href="https://nearlab.polimi.it"> NEARLab-MRS Website</a> and <a href="https://github.com/NEARLab-MedicalRobotics"> NEARLab-MRS Github </a> 🌐 
 </p>
