@@ -1,8 +1,9 @@
 
 <h1 align="center"> Alberto Rota</h1>
 <h3 align="center">Biomedical Engineer </h3>
-<h3 align="center">PhD student grant from Asensus Surgical</h3>
+<h3 align="center">PhD student at Asensus Surgical</h3>
 <h3 align="center">NEARLab - Medical Robotics Section</h3>
+<h4 align="center">Currently working on Computer Vision Deep Learning algoithms for Surgical Robotics</h4>
 
 <p align="center"> 
 <a href="https://nearlab.polimi.it/medical">
