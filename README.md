@@ -46,7 +46,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/alberto-rota/alberto-rota/blob/raw/Alberto_Rota_CV.pdf">
+<a href="https://github.com/alberto-rota/alberto-rota/raw/main/Alberto_Rota_CV.pdf">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="bcvw.png">
   <img alt="cv" src="bcvb.png" width="200" > 
