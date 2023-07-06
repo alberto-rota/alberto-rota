@@ -1,16 +1,30 @@
 
 <h1 align="center"> Alberto Rota</h1>
 <h3 align="center">Biomedical Engineer </h3>
-<h3 align="center">PhD student grant from Asensus Surgical</h3>
+<h3 align="center">Developing Computer Vision Deep Learning Algorithms for surgical robotics applications at Asensus Surgical Inc.</h3>
 <h3 align="center">NEARLab - Medical Robotics Section</h3>
 
 <p align="center"> 
 <a href="https://nearlab.polimi.it/medical">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="near_white.png">
-  <img alt="NEARLab" src="near_black.png" width="400" > 
+  <source media="(prefers-color-scheme: dark)" srcset="as_light.png">
+  <img alt="NEARLab" src="as_dark.png" height="200" > 
 </picture>
-</a> </p>
+</a> 
+<!-- <a href="https://nearlab.polimi.it/medical">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bar_light.png">
+  <img alt="NEARLab" src="logos_dark.png" height="200
+  " > 
+</picture>
+</a>  -->
+<a href="https://nearlab.polimi.it/medical">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="nearlogo_light.png">
+  <img alt="NEARLab" src="nearlogo_dark.png" height="200" > 
+</picture>
+</a> 
+</p>
 
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -32,7 +46,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/alberto-rota/CV/raw/master/Alberto_Rota_CV.pdf">
+<a href="https://github.com/alberto-rota/alberto-rota/raw/master/Alberto_Rota_CV.pdf">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="bcvw.png">
   <img alt="cv" src="bcvb.png" width="200" > 
@@ -41,7 +55,7 @@
 <a href="https://www.linkedin.com/in/albe-rota/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="bliw.png">
-  <img alt="linkedin" src="blib.png" width="200" > 
+  <img alt="linkedin" src="blib.png" width="200"> 
 </picture>
 </a> 
 <a href="https://orcid.org/my-orcid?orcid=0000-0001-9609-6294">
