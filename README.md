@@ -5,7 +5,7 @@
 <h3 align="center">Researcher at NEARLab - Medical Robotics Section</h3>
 
 <p align="center"> 
-<a href="https://nearlab.polimi.it/medical">
+<a href="https://asensus.com/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="as_light.png">
   <img alt="NEARLab" src="as_dark.png" height="200" > 
