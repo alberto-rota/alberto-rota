@@ -1,96 +1,71 @@
-
-<h1 align="center"> Alberto Rota</h1>
-<h3 align="center">Biomedical Engineer </h3>
-<h3 align="center">Developing Computer Vision Deep Learning algorithms for Surgical Robotics Applications at Asensus Surgical </h3>
-<h3 align="center">Researcher at NEARLab - Medical Robotics Section</h3>
-
-<p align="center"> 
-<a href="https://asensus.com/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="as_light.png">
-  <img alt="NEARLab" src="as_dark.png" height="200" > 
-</picture>
-</a> 
-<!-- <a href="https://nearlab.polimi.it/medical">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bar_light.png">
-  <img alt="NEARLab" src="logos_dark.png" height="200
-  " > 
-</picture>
-</a>  -->
-<a href="https://nearlab.polimi.it/medical">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="nearlogo_light.png">
-  <img alt="NEARLab" src="nearlogo_dark.png" height="200" > 
-</picture>
-</a> 
-</p>
-
-<p align="center"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1694px-PyTorch_logo_icon.svg.png" alt="python" width="35 " height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="opencv" width="40 " height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1621897385511-NS0QWVKNHWBGWPM39B7L/ros_logo_large.png" alt="ros" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-
-</p>
-<hr>
-
-<p align="center">
-<a href="https://github.com/alberto-rota/CV_developer/raw/main/CV_Alberto_Rota.pdf">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bcvw.png">
-  <img alt="cv" src="bcvb.png" width="200" > 
-</picture>
-</a> 
-<a href="https://www.linkedin.com/in/albe-rota/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bliw.png">
-  <img alt="linkedin" src="blib.png" width="200"> 
-</picture>
-</a> 
-<a href="https://orcid.org/my-orcid?orcid=0000-0001-9609-6294">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="borw.png">
-  <img alt="orcid" src="borb.png" width="200" > 
-</picture>
-</a> 
-</p>
-
-<hr>
+<div align="left">
 
 
-<p align="center" >
-  🔬 I developed <a href="https://github.com/alberto-rota/muVES"> μVES </a> to autonomously perform topological and morphological analysis on 3D images of microvascular networks 🔬 
-</p>
+# Alberto Rota
 
-<p align="center" >
-  🫀 I contributed to the devlopment of an <a href="https://github.com/alberto-rota/PAC-PVC-Beat-Classifier-for-ECGs"> AI-based ECG heartbeat calssifier </a> 
-to detect ventricular and sopraventricular anomalies 🫀
-</p>
+**Visual systems for enhanced awareness in surgical robotics and medical AI**  
+Researcher @ [NEARLab](https://nearlab.polimi.it/medical), Politecnico di Milano · Milan, Italy
 
-<p align="center" >
-  🧑‍🔬 I developed <a href="https://github.com/alberto-rota/STEVE"> STEVE</a>, a VR haptic-enhanced surgical robotic simulator for augmented and assisted training 🧑‍🔬 
-</p>
+[![Website](https://img.shields.io/badge/albertorota.dev-111827?style=flat-square&logo=safari&logoColor=white)](https://albertorota.dev)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VyC48nkAAAAJ)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-AlbeRota-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/AlbeRota)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albe-rota/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9609-6294)
+[![CV](https://img.shields.io/badge/Download_CV-555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://albertorota.dev/CV_Alberto_Rota.pdf)
 
-<p align="center" >
- 🎸 I made a <a href="https://github.com/alberto-rota/LoopStation-DIY-Project"> custom MIDI Loopstation </a> to live loop my guitar 🎸
-</p>
+</div>
 
-<p align="center" >
- 🪛 I am a <a href="https://github.com/alberto-rota/Ender3-Upgrade"> maker </a> 🪛
-</p>
+---
 
-<p align="center" >
-  🌐 I designed and I maintain <a href="https://nearlab.polimi.it"> NEARLab-MRS Website</a> and <a href="https://github.com/NEARLab-MedicalRobotics"> NEARLab-MRS Github </a> 🌐 
-</p>
+## Research
+
+I develop deep learning and computer vision systems for surgical robotics and medical imaging, from intraoperative perception to surgical training, explainability, and 3D scene understanding.
+
+
+✨ **[UnReflectAnything](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square)  
+RGB-only specular highlight removal by rendering synthetic specular supervision  
+`Synthetic Data` &nbsp; `Image-to-Image` &nbsp; `PyTorch`
+
+🎥 **[SCALE-EM](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/IEEE_TMI_2026-0891b2?style=flat-square)  
+Self-supervised embeddings for endoscopic scene matching  
+`Contrastive Learning` &nbsp; `Endoscopy` &nbsp; `PyTorch`
+
+🔊 **[MESA](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Workshop-7c3aed?style=flat-square)  
+Adnexal mass segmentation in ultrasound images  
+`DINOv2` &nbsp; `Segmentation` &nbsp; `Ultrasound`
+
+🤖 **[STEVE](https://github.com/alberto-rota/STEVE)** &nbsp; ![](https://img.shields.io/badge/ICRA_2024-b45309?style=flat-square)  
+VR haptic-enhanced training curriculum for surgical robotics  
+`Unity` &nbsp; `C#` &nbsp; `da Vinci Research Kit`
+
+🔍 **[UnderXAI-OVIT](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/Nature_WH-166534?style=flat-square)  
+Explainable AI decision support for ovarian cancer treatment  
+`XAI` &nbsp; `Medical Imaging` &nbsp; `PyTorch`
+
+🩸 **[μVES](https://github.com/alberto-rota/muVES)** &nbsp; ![](https://img.shields.io/badge/BTM-6b7280?style=flat-square)  
+3D topological and morphological analysis of microvascular networks  
+`MATLAB` &nbsp; `Microfluidics` &nbsp; `3D Imaging`
+
+---
+
+## Open Source
+
+<div align="center">
+
+[![GroundControl](https://github-readme-stats.vercel.app/api/pin/?username=alberto-rota&repo=ground-control&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/alberto-rota/ground-control)
+&nbsp;
+[![DaSSHboard](https://github-readme-stats.vercel.app/api/pin/?username=alberto-rota&repo=DaSSHboard&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/alberto-rota/DaSSHboard)
+&nbsp;
+[![MedView](https://github-readme-stats.vercel.app/api/pin/?username=FrancescaFati&repo=MedView&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/FrancescaFati/MedView)
+
+</div>
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alberto-rota&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
+
+<sub>alberto1.rota@polimi.it · [albertorota.dev](https://albertorota.dev)</sub>
+
+</div>
