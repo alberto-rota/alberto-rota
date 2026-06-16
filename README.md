@@ -22,15 +22,15 @@ Researcher @ [NEARLab](https://nearlab.polimi.it/medical), Politecnico di Milano
 I develop deep learning and computer vision systems for surgical robotics and medical imaging, from intraoperative perception to surgical training, explainability, and 3D scene understanding.
 
 
-✨ **[UnReflectAnything](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square)  
+✨ **[UnReflectAnything](https://alberto-rota.github.io/UnReflectAnything/)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square)  
 RGB-only specular highlight removal by rendering synthetic specular supervision  
 `Synthetic Data` &nbsp; `Image-to-Image` &nbsp; `PyTorch`
 
-🎥 **[SCALE-EM](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/IEEE_TMI_2026-0891b2?style=flat-square)  
+🎥 **[SCALE-EM](https://arxiv.org/abs/2512.10379)** &nbsp; ![](https://img.shields.io/badge/IEEE_TMI_2026-0891b2?style=flat-square)  
 Self-supervised embeddings for endoscopic scene matching  
 `Contrastive Learning` &nbsp; `Endoscopy` &nbsp; `PyTorch`
 
-🔊 **[MESA](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Workshop-7c3aed?style=flat-square)  
+🔊 **[MESA](https://github.com/FrancescaFati/MESA)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Workshop-7c3aed?style=flat-square)  
 Adnexal mass segmentation in ultrasound images  
 `DINOv2` &nbsp; `Segmentation` &nbsp; `Ultrasound`
 
@@ -38,7 +38,7 @@ Adnexal mass segmentation in ultrasound images
 VR haptic-enhanced training curriculum for surgical robotics  
 `Unity` &nbsp; `C#` &nbsp; `da Vinci Research Kit`
 
-🔍 **[UnderXAI-OVIT](https://github.com/alberto-rota)** &nbsp; ![](https://img.shields.io/badge/Nature_WH-166534?style=flat-square)  
+🔍 **[UnderXAI-OVIT](https://github.com/FrancescaFati/UnderXAI-OVIT)** &nbsp; ![](https://img.shields.io/badge/Nature_WH-166534?style=flat-square)  
 Explainable AI decision support for ovarian cancer treatment  
 `XAI` &nbsp; `Medical Imaging` &nbsp; `PyTorch`
 
