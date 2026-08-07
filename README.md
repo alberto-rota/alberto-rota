@@ -50,20 +50,18 @@ Explainable AI decision support for ovarian cancer treatment
 
 ## Open Source
  
-<div align="center">
+
 [![GroundControl](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/ground-control)
 &nbsp;
 [![DaSSHboard](./profile/pin-dasshboard.svg)](https://github.com/alberto-rota/DaSSHboard)
 &nbsp;
 [![MedView](./profile/pin-medview.svg)](https://github.com/FrancescaFati/MedView)
  
-</div>
+
 ---
  
-<div align="center">
 ![Stats](./profile/stats.svg)
  
 <sub>alberto1.rota@polimi.it · [albertorota.dev](https://albertorota.dev)</sub>
  
-</div>
  
