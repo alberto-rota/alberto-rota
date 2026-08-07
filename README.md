@@ -49,23 +49,21 @@ Explainable AI decision support for ovarian cancer treatment
 ---
 
 ## Open Source
-
+ 
 <div align="center">
-
-[![GroundControl](https://github-readme-stats.vercel.app/api/pin/?username=alberto-rota&repo=ground-control&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/alberto-rota/ground-control)
+[![GroundControl](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/ground-control)
 &nbsp;
-[![DaSSHboard](https://github-readme-stats.vercel.app/api/pin/?username=alberto-rota&repo=DaSSHboard&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/alberto-rota/DaSSHboard)
+[![DaSSHboard](./profile/pin-dasshboard.svg)](https://github.com/alberto-rota/DaSSHboard)
 &nbsp;
-[![MedView](https://github-readme-stats.vercel.app/api/pin/?username=FrancescaFati&repo=MedView&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/FrancescaFati/MedView)
-
+[![MedView](./profile/pin-medview.svg)](https://github.com/FrancescaFati/MedView)
+ 
 </div>
-
 ---
-
+ 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alberto-rota&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
-
+![Stats](./profile/stats.svg)
+ 
 <sub>alberto1.rota@polimi.it · [albertorota.dev](https://albertorota.dev)</sub>
-
+ 
 </div>
+ 
