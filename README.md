@@ -48,10 +48,16 @@ Explainable AI decision support for ovarian cancer treatment
 
 ---
 
-## Open Source
+## Open Stuff - Terminal Tools - VSC Extensiosns
  
 
 [![GroundControl](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/ground-control)
+&nbsp;
+[![sekrt](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/sekrt)
+&nbsp;
+[![dasshboard-tui](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/dasshboard-tui)
+&nbsp;
+[![dotfiles](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/dotfiles)
 &nbsp;
 [![DaSSHboard](./profile/pin-dasshboard.svg)](https://github.com/alberto-rota/DaSSHboard)
 &nbsp;
