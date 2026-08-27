@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alberto Rota&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 127, Total Commits  : 1256, Total PRs: 2, Total Issues: 25, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 127, Total Commits  : 1259, Total PRs: 2, Total Issues: 25, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 142.11130153530812;
+        stroke-dashoffset: 142.0748689337862;
       }
     }
   

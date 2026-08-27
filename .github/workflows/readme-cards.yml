@@ -40,6 +40,30 @@ jobs:
           path: profile/pin-ground-control.svg
           token: ${{ env.TOKEN }}
 
+      - name: Pin - sekrt
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=alberto-rota&repo=sekrt&${{ env.COMMON }}&description_lines_count=2
+          path: profile/pin-sekrt.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Pin - dasshboard-tui
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=alberto-rota&repo=dasshboard-tui&${{ env.COMMON }}&description_lines_count=2
+          path: profile/pin-dasshboard-tui.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Pin - dotfiles
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=alberto-rota&repo=dotfiles&${{ env.COMMON }}&description_lines_count=2
+          path: profile/pin-dotfiles.svg
+          token: ${{ env.TOKEN }}
+
       - name: Pin - DaSSHboard
         uses: stats-organization/github-readme-stats-action@v2
         with:
