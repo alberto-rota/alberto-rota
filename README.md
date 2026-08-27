@@ -55,9 +55,9 @@ Explainable AI decision support for ovarian cancer treatment
 &nbsp;
 [![sekrt](./profile/pin-sekrt.svg)](https://github.com/alberto-rota/sekrt)
 &nbsp;
-[![dasshboard-tui](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/dasshboard-tui)
+[![dasshboard-tui](./profile/pin-dasshboard-tui.svg)](https://github.com/alberto-rota/dasshboard-tui)
 &nbsp;
-[![dotfiles](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/dotfiles)
+[![dotfiles](./profile/pin-dotfiles.svg)](https://github.com/alberto-rota/dotfiles)
 &nbsp;
 [![DaSSHboard](./profile/pin-dasshboard.svg)](https://github.com/alberto-rota/DaSSHboard)
 &nbsp;
