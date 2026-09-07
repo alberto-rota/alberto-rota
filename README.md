@@ -21,14 +21,17 @@ Researcher @ [NEARLab](https://nearlab.polimi.it/medical), Politecnico di Milano
 
 I develop deep learning and computer vision systems for surgical robotics and medical imaging, from intraoperative perception to surgical training, explainability, and 3D scene understanding.
 
-
-✨ **[UnReflectAnything](https://alberto-rota.github.io/UnReflectAnything/)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square)  
+✨ **[UnReflectAnything](https://alberto-rota.github.io/UnReflectAnything/)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Top_2%-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/🏆_Award_Candidate-1d4ed8?style=flat-square)  
 RGB-only specular highlight removal by rendering synthetic specular supervision  
-`Synthetic Data` &nbsp; `Image-to-Image` &nbsp; `PyTorch`
+`Image Restoration` &nbsp; `Image-to-Image` &nbsp; `SSL`
 
-🎥 **[SCALE-EM](https://arxiv.org/abs/2512.10379)** &nbsp; ![](https://img.shields.io/badge/IEEE_TMI_2026-0891b2?style=flat-square)  
+🎥 **[SCOPE](https://arxiv.org/abs/2512.10379)** &nbsp; ![](https://img.shields.io/badge/Under_Review-0891b2?style=flat-square)  &nbsp; ![](https://img.shields.io/badge/IEEE_TMI-0891b2?style=flat-square)  
 Self-supervised embeddings for endoscopic scene matching  
-`Contrastive Learning` &nbsp; `Endoscopy` &nbsp; `PyTorch`
+`Contrastive Learning` &nbsp; `Endoscopy` &nbsp; `SSL`  &nbsp; `Novel View Synthesis`
+
+😶‍🌫️ **[COAST]()** &nbsp; ![](https://img.shields.io/badge/Under_Review-ff4444?style=flat-square) &nbsp;  ![](https://img.shields.io/badge/Advanced_Intelligent_Systems-ff4444?style=flat-square)  
+Causal Occlusion-Aware Surgical Point Tracking   
+`Point Tracking` &nbsp; `Occlusion Handling` &nbsp; `Distillation`
 
 🔊 **[MESA](https://github.com/FrancescaFati/MESA)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Workshop-7c3aed?style=flat-square)  
 Adnexal mass segmentation in ultrasound images  
@@ -46,14 +49,15 @@ Explainable AI decision support for ovarian cancer treatment
 3D topological and morphological analysis of microvascular networks  
 `MATLAB` &nbsp; `Microfluidics` &nbsp; `3D Imaging`
 
----
 
-## Open Stuff - Terminal Tools - VSC Extensiosns
- 
+## Open Stuff - Terminal Tools - VSC Extensions
+This stuff I build to solve my own issues. 
 
 [![GroundControl](./profile/pin-ground-control.svg)](https://github.com/alberto-rota/ground-control)
 &nbsp;
 [![sekrt](./profile/pin-sekrt.svg)](https://github.com/alberto-rota/sekrt)
+&nbsp;
+[![mlcp](./profile/pin-mlcp.svg)](https://github.com/alberto-rota/mlcp)
 &nbsp;
 [![dasshboard-tui](./profile/pin-dasshboard-tui.svg)](https://github.com/alberto-rota/dasshboard-tui)
 &nbsp;
@@ -66,8 +70,8 @@ Explainable AI decision support for ovarian cancer treatment
 
 ---
  
-![Stats](./profile/stats.svg)
+<!-- ![Stats](./profile/stats.svg) -->
  
-<sub>alberto1.rota@polimi.it · [albertorota.dev](https://albertorota.dev)</sub>
+<sub>alberto_rota@outlook.com · [albertorota.dev](https://albertorota.dev)</sub>
  
  

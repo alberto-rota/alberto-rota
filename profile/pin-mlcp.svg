@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >dasshboard-tui</text>
+      >mlcp</text>
     </g>
       </g>
     
@@ -114,16 +114,16 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A home screen for your terminal. Keeps all your projects at</tspan><tspan dy="1.2em" x="25">a one-click distance, no matter where they are</tspan>
+      <tspan dy="1.2em" x="25">An MCP server to inform your LLM about your ML training</tspan><tspan dy="1.2em" x="25">experiments in real time</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
-      <text data-testid="lang-name" class="gray" x="15">Rust</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
+      <text data-testid="lang-name" class="gray" x="15">Python</text>
     </g>
-    </g><g transform="translate(48.13999967575073, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(62.21999998092651, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
