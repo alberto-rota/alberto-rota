@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A home screen for your terminal. Keeps all your projects at</tspan><tspan dy="1.2em" x="25">a one-click distance, no matter where they are</tspan>
+      <tspan dy="1.2em" x="25">A home screen for your terminal. Keeps all your projects at a</tspan><tspan dy="1.2em" x="25">one-click distance, no matter where they are</tspan>
     </text>
 
     <g transform="translate(30, 65)">
