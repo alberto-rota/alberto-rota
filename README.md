@@ -21,7 +21,7 @@ Researcher @ [NEARLab](https://nearlab.polimi.it/medical), Politecnico di Milano
 
 I develop deep learning and computer vision systems for surgical robotics and medical imaging, from intraoperative perception to surgical training, explainability, and 3D scene understanding.
 
-✨ **[UnReflectAnything](https://alberto-rota.github.io/UnReflectAnything/)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Top_2\%-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/🏆_Award_Candidate-1d4ed8?style=flat-square)  
+✨ **[UnReflectAnything](https://alberto-rota.github.io/UnReflectAnything/)** &nbsp; ![](https://img.shields.io/badge/CVPR_2026_Top-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/★_Oral-1d4ed8?style=flat-square) &nbsp; ![](https://img.shields.io/badge/🏆_Award_Candidate-1d4ed8?style=flat-square)  
 RGB-only specular highlight removal by rendering synthetic specular supervision  
 `Image Restoration` &nbsp; `Image-to-Image` &nbsp; `SSL`
 
