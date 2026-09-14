@@ -88,6 +88,9 @@ jobs:
           path: profile/pin-medview.svg
           token: ${{ env.TOKEN }}
 
+      - name: Inject PyPI downloads
+        run: python3 scripts/inject_pypi_downloads.py
+
       - name: Commit
         run: |
           git config user.name  "github-actions[bot]"
