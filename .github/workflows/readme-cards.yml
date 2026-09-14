@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - ".github/workflows/readme-cards.yml"
+      - "scripts/inject_pypi_downloads.py"
 
 jobs:
   cards:
@@ -88,7 +89,7 @@ jobs:
           path: profile/pin-medview.svg
           token: ${{ env.TOKEN }}
 
-      - name: Inject PyPI downloads
+      - name: Inject PyPI and VS Code download counts
         run: python3 scripts/inject_pypi_downloads.py
 
       - name: Commit
